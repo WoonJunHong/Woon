@@ -38,6 +38,4 @@ public class Student {
      System.out.println("Hello");
      return;
 }
-    void myTest(){
-}
 }
